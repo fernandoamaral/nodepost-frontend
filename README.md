@@ -32,6 +32,6 @@ npm run dev
 
 ## Deploy
 
-Após o deploy do backend e do frontend, a aplicação pode ser acessada pelo link https://nodepost.ddns.net.
+Após o deploy do backend e do frontend, a aplicação pode ser acessada pela URL https://nodepost.ddns.net.
 
-A aplicação é apenas um exemplo. Algumas alterações seriam necessárias para um ambiente de produção, como a remoção dos links de `cadastro` e `login` dos professores.
+A aplicação atual é apenas um exemplo. Algumas alterações seriam necessárias para um ambiente de produção, como a remoção dos links de `cadastro` e `login` dos professores.
