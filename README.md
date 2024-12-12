@@ -19,10 +19,10 @@ docker run -p 80:80 fernandoamaral/nodepost-frontend
 
 ```bash
 # clone o repositório
-git clone https://github.com/fernandoamaral/nodepost-backend.git
+git clone https://github.com/fernandoamaral/nodepost-frontend.git
 
 # edite a URL do backend no .env
-cd nodepost-backend
+cd nodepost-frontend
 echo 'VITE_API_BASE_URL=http://localhost:3000' > .env
 
 # rode o projeto
